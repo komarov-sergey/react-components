@@ -1,5 +1,5 @@
 {
-  "name": "ps-react-build-template",
+  "name": "sk-react-build-template",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "private": true,
@@ -16,7 +16,6 @@
     "toolkit"
   ],
   "dependencies": {
-    "highlight.js": "^9.10.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "styled-components": "^1.4.5"

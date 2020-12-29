@@ -1,20 +1,14 @@
 {
-  "name": "ps-react",
-  "author": {
-    "name": "Cory House",
-    "email": "cory@reactjsconsulting.com",
-    "url": "http://reactjsconsulting.com/"
-  },
+  "name": "sk-react-build-template",
   "version": "1.0.0",
   "main": "./index.js",
   "keywords": [
     "components",
     "react",
     "react-component",
-    "toolkit",
-    "pluralsight"
+    "toolkit"
   ],
-  "homepage": "http://coryhouse.github.io/ps-react/",
+  "homepage": "http://komarov-sergey.github.io/react-components/",
   "dependencies": {
     "highlight.js": "^9.10.0",
     "react": "^15.5.4",
