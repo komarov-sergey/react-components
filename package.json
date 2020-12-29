@@ -2,7 +2,7 @@
   "name": "sk-react-build-template",
   "version": "1.0.0",
   "main": "./lib/index.js",
-  "private": true,
+  "private": false,
   "engines": {
     "node": ">=4.0.0"
   },
