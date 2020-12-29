@@ -6,11 +6,6 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "author": {
-    "name": "Cory House",
-    "email": "cory@reactjsconsulting.com",
-    "url": "http://reactjsconsulting.com/"
-  },
   "files": [
     "lib"
   ],
@@ -18,8 +13,7 @@
     "components",
     "react",
     "react-component",
-    "toolkit",
-    "pluralsight"
+    "toolkit"
   ],
   "dependencies": {
     "highlight.js": "^9.10.0",
@@ -79,7 +73,7 @@
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "2.0.2"
   },
-  "homepage": "http://coryhouse.github.io/ps-react/",
+  "homepage": "http://komarov-sergey.github.io/react-components/",
   "scripts": {
     "prestart": "npm run gen:docs",
     "start": "npm-run-all --parallel start:docs gen:docs-watch",
